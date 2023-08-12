@@ -1,5 +1,5 @@
 window.onload = () => {
-  const baseUrl ="3.141.202.94:8000"
+  const baseUrl ="http://3.135.206.46:8000"
 
   const listBtn = document.querySelector("#listCars")
   const carIdSelect = document.querySelector("#carIdSelect")
